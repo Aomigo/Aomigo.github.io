@@ -1,4 +1,4 @@
-let ingredients = ["Banana", "Apple", "Grass", "Water", "Milk", "Meat", "Herbs", "Health Elixir", "Mental Elixir", "Exhaustion Elixir", "Happiness Elixir", "Danton's Chin", "Math Prof Hair", "Veggies"]
+let ingredients = ["Banana", "Apple", "Grass", "Water", "Milk", "Meat", "Herbs", "Health Elixir", "Mental Elixir", "Exhaustion Elixir", "Happiness Elixir", "Veggies"]
 
 let Artefacts = ["Danton's Chin", "Math Prof Hair", "Aatrox's blade", "Your mom", "Mathieu Lefebrve"]
 
